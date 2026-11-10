@@ -1,0 +1,8 @@
+# build output
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# compiled shader cache, rebuilt on first run
+*.cso
